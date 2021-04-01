@@ -26,6 +26,7 @@ Strategically place towers to stop enemies from reaching your base
 # Tech Setup
 
 Platform : PC
+
 Input : Mouse
 
 
