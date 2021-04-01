@@ -30,6 +30,10 @@ Platform : PC
 Input : Mouse
 
 
+# Game Look
+
+![realm-rush ss](https://user-images.githubusercontent.com/69651222/113359026-936c9b80-934f-11eb-969b-d5335beae036.png)
+
 # Stretch Goals
 
 ## Enemy Patfinding:
