@@ -10,6 +10,7 @@ public class EnemyMover : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // Default waiting is 1f, you can change by giving as parameter.
         StartCoroutine(FollowPath());
 
     }
